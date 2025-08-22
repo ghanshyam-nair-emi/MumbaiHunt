@@ -2,8 +2,7 @@
 
 A data visualization tool that helps you compare apartments and make a data-driven "MumbaiHunt" on your next purchase.<br />
 
-<strong>Try MumbaiHunt here:</strong> https://johan-akerman.github.io/Homerun
-<br />
+<strong>Try MumbaiHunt here:</strong> https://ghanshyam-nair-emi.github.io/MumbaiHunt/
 
 ## Project Background
 
