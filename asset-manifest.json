@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MumbaiHunt/static/css/main.72cf907f.chunk.css",
+    "main.js": "/MumbaiHunt/static/js/main.046066d8.chunk.js",
+    "main.js.map": "/MumbaiHunt/static/js/main.046066d8.chunk.js.map",
+    "runtime-main.js": "/MumbaiHunt/static/js/runtime-main.77bcc4b8.js",
+    "runtime-main.js.map": "/MumbaiHunt/static/js/runtime-main.77bcc4b8.js.map",
+    "static/js/2.796587bb.chunk.js": "/MumbaiHunt/static/js/2.796587bb.chunk.js",
+    "static/js/2.796587bb.chunk.js.map": "/MumbaiHunt/static/js/2.796587bb.chunk.js.map",
+    "index.html": "/MumbaiHunt/index.html",
+    "static/css/main.72cf907f.chunk.css.map": "/MumbaiHunt/static/css/main.72cf907f.chunk.css.map",
+    "static/js/2.796587bb.chunk.js.LICENSE.txt": "/MumbaiHunt/static/js/2.796587bb.chunk.js.LICENSE.txt",
+    "static/media/homeIcon.966d3106.svg": "/MumbaiHunt/static/media/homeIcon.966d3106.svg",
+    "static/media/houseIllustration.c299f342.svg": "/MumbaiHunt/static/media/houseIllustration.c299f342.svg",
+    "static/media/phoneIllustration.d559823b.svg": "/MumbaiHunt/static/media/phoneIllustration.d559823b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77bcc4b8.js",
+    "static/js/2.796587bb.chunk.js",
+    "static/css/main.72cf907f.chunk.css",
+    "static/js/main.046066d8.chunk.js"
+  ]
+}
