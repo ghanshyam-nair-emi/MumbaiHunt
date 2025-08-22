@@ -1,0 +1,141 @@
+[
+    {"area":"Östermalm","broker":"Behrer & Partners", "askPrice":6950000, "endPrice":7200000, "pricePerSquare":101408,"rooms":3,"size":71,"monthlyFee":2420,"date":"2020-12-18"},
+    {"area":"Östermalm","broker":"BlumenthalHoffman Fastighetsmäkleri", "askPrice":11875000, "endPrice":11500000, "pricePerSquare":121053,"rooms":3.5,"size":95,"monthlyFee":5747,"date":"2020-12-8"},
+    {"area":"Östermalm","broker":"Svensk Fastighetsförmedling", "askPrice":3000000, "endPrice":3050000, "pricePerSquare":138636,"rooms":1,"size":22,"monthlyFee":1416,"date":"2020-12-01"},
+
+    {"area":"Östermalm","broker":"Behrer & Partners", "askPrice":5995000, "endPrice":6200000, "pricePerSquare":96875,"rooms":2,"size":64,"monthlyFee":4028,"date":"2020-11-27"},
+    {"area":"Östermalm","broker":"Alicia Edelman Fastighetsmäkleri", "askPrice":3500000, "endPrice":3400000, "pricePerSquare":121429,"rooms":1,"size":28,"monthlyFee":3480,"date":"2020-11-26"},
+    {"area":"Östermalm","broker":"Behrer & Partners", "askPrice":6195000, "endPrice":7000000, "pricePerSquare":145833,"rooms":2,"size":48,"monthlyFee":3500,"date":"2020-11-26"},
+
+    {"area":"Östermalm","broker":"Eklund Stockholm New York", "askPrice":2350000, "endPrice":2500000, "pricePerSquare":52083,"rooms":1,"size":48,"monthlyFee":2000,"date":"2020-10-26"},
+    {"area":"Östermalm","broker":"HusmanHagberg", "askPrice":4700000, "endPrice":4950000, "pricePerSquare":64286,"rooms":2,"size":77,"monthlyFee":3590,"date":"2020-10-26"},
+    {"area":"Östermalm","broker":"Svensk Fastighetsförmedling", "askPrice":3695000, "endPrice":4000000, "pricePerSquare":105263,"rooms":2,"size":38,"monthlyFee":1565,"date":"2020-10-24"},
+
+    {"area":"Östermalm","broker":"Behrer & Partners", "askPrice":6750000, "endPrice":7600000, "pricePerSquare":97436,"rooms":3,"size":78,"monthlyFee":3534,"date":"2020-9-28"},
+    {"area":"Östermalm","broker":"Behrer & Partners", "askPrice":5795000, "endPrice":6800000, "pricePerSquare":106250,"rooms":2,"size":64,"monthlyFee":4028,"date":"2020-9-25"},
+    {"area":"Östermalm","broker":"Eklund Stockholm New York", "askPrice":6295000, "endPrice":7100000, "pricePerSquare":110938,"rooms":2,"size":64,"monthlyFee":2874,"date":"2020-9-24"},
+
+    {"area":"Östermalm","broker":"Behrer & Partners", "askPrice":3495000, "endPrice":4050000, "pricePerSquare":135000,"rooms":2,"size":34,"monthlyFee":1616,"date":"2020-8-28"},
+    {"area":"Östermalm","broker":"Wrede Fastighetsmäkleri", "askPrice":10500000, "endPrice":11425000, "pricePerSquare":128371,"rooms":4,"size":89,"monthlyFee":4391,"date":"2020-8-25"},
+    {"area":"Östermalm","broker":"Lagerlings", "askPrice":7250000, "endPrice":7450000, "pricePerSquare":118254 ,"rooms":2,"size":63,"monthlyFee":1936,"date":"2020-8-22"},
+
+    {"area":"Östermalm","broker":"Eklund Stockholm New York", "askPrice":3500000, "endPrice":3500000, "pricePerSquare":106061,"rooms":1,"size":33,"monthlyFee":2519,"date":"2020-7-21"},
+    {"area":"Östermalm","broker":"Nestor Fastighetsmäkleri", "askPrice":2995000, "endPrice":3400000, "pricePerSquare":130769,"rooms":1,"size":26,"monthlyFee":1429,"date":"2020-7-15"},
+    {"area":"Östermalm","broker":"Mäklarringen", "askPrice":4100000, "endPrice":4100000, "pricePerSquare":107895,"rooms":2,"size":38,"monthlyFee":1675,"date":"2020-7-01"},
+
+    {"area":"Östermalm","broker":"Oscars Fastighetsmäkleri", "askPrice":8000000, "endPrice":9300000, "pricePerSquare":118020,"rooms":3,"size":79,"monthlyFee":2260,"date":"2020-6-01"},
+    {"area":"Östermalm","broker":"Bjurfors", "askPrice":6950000, "endPrice":7100000, "pricePerSquare":118333,"rooms":2,"size":60,"monthlyFee":2785,"date":"2020-6-01"},
+    {"area":"Östermalm","broker":"Fastighetsbyrån", "askPrice":2995000, "endPrice":3300000, "pricePerSquare":113793,"rooms":1,"size":29,"monthlyFee":1680,"date":"2020-6-01"},
+
+    {"area":"Östermalm","broker":"Lagerlings", "askPrice":6995000, "endPrice":7000000, "pricePerSquare":100000,"rooms":3,"size":74,"monthlyFee":3997,"date":"2020-5-01"},
+    {"area":"Östermalm","broker":"Oscars Fastighetsmäkleri", "askPrice":2995000, "endPrice":3275000, "pricePerSquare":112543,"rooms":1,"size":29,"monthlyFee":1653,"date":"2020-5-01"},
+    {"area":"Östermalm","broker":"Fastighetsbyrån", "askPrice":7995000, "endPrice":8075000, "pricePerSquare":91761,"rooms":3,"size":88,"monthlyFee":2338,"date":"2020-5-01"},
+
+    {"area":"Östermalm","broker":"Edward & Partners Fastighetsmäklare", "askPrice":5495000, "endPrice":5675000, "pricePerSquare":93033,"rooms":2,"size":61,"monthlyFee":2523,"date":"2020-4-01"},
+    {"area":"Östermalm","broker":"Edward & Partners Fastighetsmäklare", "askPrice":13495000 , "endPrice":13300000, "pricePerSquare":100758,"rooms":5,"size":132,"monthlyFee":5049,"date":"2020-4-01"},
+    {"area":"Östermalm","broker":"Fastighetsbyrån", "askPrice":7450000, "endPrice":7200000, "pricePerSquare":96000,"rooms":3,"size":75,"monthlyFee":3418,"date":"2020-4-01"},
+
+    {"area":"Östermalm","broker":"Fastighetsbyrån", "askPrice":3295000, "endPrice":3550000, "pricePerSquare":118333,"rooms":1,"size":30,"monthlyFee":1616,"date":"2020-3-01"},
+    {"area":"Östermalm","broker":"Svensk Fastighetsförmedling", "askPrice":2700000, "endPrice":2700000, "pricePerSquare":122727,"rooms":1,"size":22,"monthlyFee":1244,"date":"2020-3-01"},
+    {"area":"Östermalm","broker":"Lagerlings", "askPrice":5400000, "endPrice":6025000, "pricePerSquare":102119,"rooms":2.5,"size":59,"monthlyFee":1699,"date":"2020-3-01"},
+
+    {"area":"Östermalm","broker":"BlumenthalHoffman Fastighetsmäkleri", "askPrice":7750000, "endPrice":9500000, "pricePerSquare":111765,"rooms":3,"size":85,"monthlyFee":3793,"date":"2020-2-01"},
+    {"area":"Östermalm","broker":"Behrer & Partners", "askPrice":5495000, "endPrice":6475000, "pricePerSquare":129500,"rooms":2,"size":50,"monthlyFee":2149,"date":"2020-2-01"},
+    {"area":"Östermalm","broker":"HusmanHagberg", "askPrice":2850000, "endPrice":3240000, "pricePerSquare":92571,"rooms":1,"size":35,"monthlyFee":1597,"date":"2020-2-01"},
+
+    {"area":"Östermalm","broker":"Lagerlings", "askPrice":5450000, "endPrice":6150000, "pricePerSquare":111818,"rooms":2,"size":55,"monthlyFee":1667,"date":"2020-1-01"},
+    {"area":"Östermalm","broker":"Properties & Partners Stockholm", "askPrice":7500000, "endPrice":7500000, "pricePerSquare":119048,"rooms":2,"size":63,"monthlyFee":2237,"date":"2020-1-01"},
+    {"area":"Östermalm","broker":"Lagerlings", "askPrice":14500000, "endPrice":14900000, "pricePerSquare":129565,"rooms":3.5,"size":115,"monthlyFee":2497,"date":"2020-1-01"},
+
+    {"area":"Södermalm","broker":"Bjurfors", "askPrice":4250000, "endPrice":4250000, "pricePerSquare":94444,"rooms":2,"size":45,"monthlyFee":2182,"date":"2020-12-1"},
+    {"area":"Södermalm","broker":"Notar", "askPrice":4200000, "endPrice":4200000, "pricePerSquare":77778,"rooms":2,"size":54,"monthlyFee":2287,"date":"2020-12-1"},
+    {"area":"Södermalm","broker":"Mäklarhuset", "askPrice":3495000, "endPrice":3970000, "pricePerSquare":110278,"rooms":1,"size":36,"monthlyFee":2211,"date":"2020-12-01"},
+
+    {"area":"Södermalm","broker":"Södermäklarna", "askPrice":9000000, "endPrice":10750000, "pricePerSquare":102381,"rooms":4.5,"size":105,"monthlyFee":1887,"date":"2020-11-01"},
+    {"area":"Södermalm","broker":"BOSTHML", "askPrice":2495000, "endPrice":2700000, "pricePerSquare":87097,"rooms":1,"size":31,"monthlyFee":1746,"date":"2020-11-01"},
+    {"area":"Södermalm","broker":"Historiska Hem", "askPrice":3295000, "endPrice":3900000, "pricePerSquare":98734,"rooms":2,"size":40,"monthlyFee":2517,"date":"2020-11-01"},
+
+    {"area":"Södermalm","broker":"Historiska Hem", "askPrice":4350000, "endPrice":5590000, "pricePerSquare":114082,"rooms":2,"size":49,"monthlyFee":2948,"date":"2020-10-01"},
+    {"area":"Södermalm","broker":"Notar", "askPrice":3595000, "endPrice":4250000, "pricePerSquare":92391,"rooms":1.5,"size":46,"monthlyFee":2810,"date":"2020-10-01"},
+    {"area":"Södermalm","broker":"Södermäklarna", "askPrice":3060000, "endPrice":3060000, "pricePerSquare":95625,"rooms":1,"size":32,"monthlyFee":1653,"date":"2020-10-01"},
+
+    {"area":"Södermalm","broker":"Notar", "askPrice":3750000, "endPrice":4300000, "pricePerSquare":91489,"rooms":2,"size":47,"monthlyFee":2195,"date":"2020-9-01"},
+    {"area":"Södermalm","broker":"HusmanHagberg", "askPrice":6975000, "endPrice":7625000, "pricePerSquare":84722,"rooms":4,"size":90,"monthlyFee":3078,"date":"2020-9-01"},
+    {"area":"Södermalm","broker":"HusmanHagberg", "askPrice":5350000, "endPrice":5800000, "pricePerSquare":92063,"rooms":3,"size":63,"monthlyFee":3444,"date":"2020-9-01"},
+
+    {"area":"Södermalm","broker":"Svensk Fastighetsförmedling", "askPrice":2995000, "endPrice":3325000, "pricePerSquare":79167,"rooms":2,"size":42,"monthlyFee":2146,"date":"2020-8-01"},
+    {"area":"Södermalm","broker":"Alicia Edelman Fastighetsmäkleri", "askPrice":4250000, "endPrice":5410000, "pricePerSquare":104038,"rooms":3,"size":52,"monthlyFee":2453,"date":"2020-8-01"},
+    {"area":"Södermalm","broker":"Bjurfors", "askPrice":7500000, "endPrice": 7350000, "pricePerSquare":89634,"rooms":4,"size":82,"monthlyFee":4000,"date":"2020-8-01"},
+
+    {"area":"Södermalm","broker":"Bjurfors", "askPrice":9750000, "endPrice":10100000, "pricePerSquare":85593,"rooms":5,"size":118,"monthlyFee":4777,"date":"2020-7-01"},
+    {"area":"Södermalm","broker":"Historiska Hem", "askPrice":2750000, "endPrice":3430000, "pricePerSquare":110645,"rooms":1,"size":31,"monthlyFee":1889,"date":"2020-7-01"},
+    {"area":"Södermalm","broker":"Fastighetsbyrån", "askPrice":7150000, "endPrice":7150000, "pricePerSquare":89375,"rooms":3,"size":80,"monthlyFee":4591,"date":"2020-7-01"},
+
+    {"area":"Södermalm","broker":"SkandiaMäklarna", "askPrice":2390000, "endPrice":2720000, "pricePerSquare":108800,"rooms":1,"size":25,"monthlyFee":1455,"date":"2020-6-01"},
+    {"area":"Södermalm","broker":"HusmanHagberg", "askPrice":4975000, "endPrice":4950000, "pricePerSquare":61111,"rooms":3,"size":81,"monthlyFee":3843,"date":"2020-6-01"},
+    {"area":"Södermalm","broker":"Behrer & Partners", "askPrice":5795000, "endPrice":5900000, "pricePerSquare":86765,"rooms":3,"size":68,"monthlyFee":3018,"date":"2020-6-01"},
+
+    {"area":"Södermalm","broker":"Historiska Hem", "askPrice":5395000, "endPrice":6230000, "pricePerSquare":95846,"rooms":2,"size":65,"monthlyFee":2134,"date":"2020-5-01"},
+    {"area":"Södermalm","broker":"BOSTHLM", "askPrice":3975000, "endPrice":4650000, "pricePerSquare":96875,"rooms":2,"size":48,"monthlyFee":2757,"date":"2020-5-01"},
+    {"area":"Södermalm","broker":"SkandiaMäklarna", "askPrice":8750000, "endPrice":9900000, "pricePerSquare":90826,"rooms":4,"size":109,"monthlyFee":5290,"date":"2020-5-01"},
+
+    {"area":"Södermalm","broker":"BOSTHLM", "askPrice":3750000, "endPrice":3950000, "pricePerSquare":87778,"rooms":2,"size":45,"monthlyFee":2017,"date":"2020-4-01"},
+    {"area":"Södermalm","broker":"Mäklarhuset", "askPrice":8975000, "endPrice":10550000, "pricePerSquare":111053,"rooms":4,"size":95,"monthlyFee":2165,"date":"2020-4-01"},
+    {"area":"Södermalm","broker":"Svensk Fastighetsförmedling", "askPrice":6750000, "endPrice":6750000, "pricePerSquare":68878,"rooms":4,"size":98,"monthlyFee":4863,"date":"2020-4-01"},
+
+    {"area":"Södermalm","broker":"Historiska Hem", "askPrice":4200000, "endPrice":4000000, "pricePerSquare":68966,"rooms":2,"size":58,"monthlyFee":2349,"date":"2020-3-01"},
+    {"area":"Södermalm","broker":"Bjurfors", "askPrice":2950000, "endPrice":3570000, "pricePerSquare":102000,"rooms":1,"size":35,"monthlyFee":1365,"date":"2020-3-01"},
+    {"area":"Södermalm","broker":"Fastighetsbyrån", "askPrice":5200000, "endPrice":5200000, "pricePerSquare":68421,"rooms":3,"size":76,"monthlyFee":4520,"date":"2020-3-01"},
+
+    {"area":"Södermalm","broker":"Notar", "askPrice":2395000, "endPrice":2675000, "pricePerSquare":95536,"rooms":1,"size":28,"monthlyFee":1605,"date":"2020-2-01"},
+    {"area":"Södermalm","broker":"Bjurfors", "askPrice":4995000, "endPrice":5600000, "pricePerSquare":84848,"rooms":3,"size":66,"monthlyFee":3064,"date":"2020-2-01"},
+    {"area":"Södermalm","broker":"Eklund Stockholm New York", "askPrice":3650000, "endPrice":4500000, "pricePerSquare":107143,"rooms":2,"size":42,"monthlyFee":912,"date":"2020-2-01"},
+
+    {"area":"Kungsholmen","broker":"Widerlöv", "askPrice":2495000, "endPrice":2980000, "pricePerSquare":110370,"rooms":1,"size":27,"monthlyFee":1751,"date":"2020-12-1"},
+    {"area":"Kungsholmen","broker":"SkandiaMäklarna", "askPrice":3400000, "endPrice":3300000, "pricePerSquare":72368,"rooms":2,"size":46,"monthlyFee":1871,"date":"2020-12-1"},
+    {"area":"Kungsholmen","broker":"Fastighetsbyrån", "askPrice":5995000, "endPrice":6000000, "pricePerSquare":90909,"rooms":3,"size":66,"monthlyFee":2563,"date":"2020-12-01"},
+
+    {"area":"Kungsholmen","broker":"HusmanHagberg", "askPrice":3395000, "endPrice":3700000, "pricePerSquare":88095,"rooms":2,"size":42,"monthlyFee":2144,"date":"2020-11-01"},
+    {"area":"Kungsholmen","broker":"Svensk Fastighetsförmedling", "askPrice":2250000, "endPrice":2500000, "pricePerSquare":100000,"rooms":1,"size":25,"monthlyFee":1816,"date":"2020-11-01"},
+    {"area":"Kungsholmen","broker":"Diplomat", "askPrice":3195000, "endPrice":3400000, "pricePerSquare":85000,"rooms":1.5,"size":40,"monthlyFee":2467,"date":"2020-11-01"},
+
+    {"area":"Kungsholmen","broker":"Widerlöv", "askPrice":2995000, "endPrice":3300000, "pricePerSquare":88000,"rooms":2,"size":37.5,"monthlyFee":3053,"date":"2020-10-01"},
+    {"area":"Kungsholmen","broker":"Mäklarhuset", "askPrice":6495000, "endPrice":6850000, "pricePerSquare":87261,"rooms":3,"size":79,"monthlyFee":4172,"date":"2020-10-01"},
+    {"area":"Kungsholmen","broker":"Widerlöv", "askPrice":3695000, "endPrice":4000000, "pricePerSquare":88889,"rooms":2,"size":45,"monthlyFee":2430,"date":"2020-10-01"},
+
+    {"area":"Kungsholmen","broker":"Länsförsäkringar", "askPrice":5795000, "endPrice":6300000, "pricePerSquare":76829,"rooms":3,"size":82,"monthlyFee":1111,"date":"2020-9-01"},
+    {"area":"Kungsholmen","broker":"Karlsson & Uddare", "askPrice":5850000, "endPrice":5750000, "pricePerSquare":84559,"rooms":3,"size":68,"monthlyFee":3424,"date":"2020-9-01"},
+    {"area":"Kungsholmen","broker":"Fastighetsbyrån", "askPrice":2595000, "endPrice":2900000, "pricePerSquare":85294,"rooms":1,"size":34,"monthlyFee":1934,"date":"2020-9-01"},
+
+    {"area":"Kungsholmen","broker":"Karlsson & Uddare", "askPrice":4975000, "endPrice":5925000, "pricePerSquare":88433,"rooms":2,"size":67,"monthlyFee":2565,"date":"2020-8-01"},
+    {"area":"Kungsholmen","broker":"Erik Olsson", "askPrice":6995000, "endPrice":9200000, "pricePerSquare":109524 ,"rooms":3,"size":84,"monthlyFee":3247,"date":"2020-8-01"},
+    {"area":"Kungsholmen","broker":"Diplomat", "askPrice":5495000, "endPrice":5915000, "pricePerSquare":68779,"rooms":3,"size":86,"monthlyFee":3538,"date":"2020-8-01"},
+
+    {"area":"Kungsholmen","broker":"Bostadsrättsspecialisten", "askPrice":7495000, "endPrice":7700000, "pricePerSquare":85556,"rooms":4,"size":90,"monthlyFee":6036,"date":"2020-7-01"},
+    {"area":"Kungsholmen","broker":"HusmanHagberg", "askPrice":6450000, "endPrice":6700000, "pricePerSquare":69430,"rooms":4,"size":97,"monthlyFee":4340,"date":"2020-7-01"},
+    {"area":"Kungsholmen","broker":"Notar", "askPrice":2495000, "endPrice":3000000, "pricePerSquare":86957,"rooms":1,"size":35,"monthlyFee":2692,"date":"2020-7-01"},
+
+    {"area":"Kungsholmen","broker":"Karlsson & Uddare", "askPrice":2895000, "endPrice":3175000, "pricePerSquare":97692,"rooms":1,"size":33,"monthlyFee":2681,"date":"2020-6-01"},
+    {"area":"Kungsholmen","broker":"Länsförsäkringar", "askPrice":5795000, "endPrice":6000000, "pricePerSquare":75000,"rooms":3,"size":80,"monthlyFee":2894,"date":"2020-6-01"},
+    {"area":"Kungsholmen","broker":"Svensk Fastighetsförmedling", "askPrice":2850000, "endPrice":2850000, "pricePerSquare":75000,"rooms":1,"size":38,"monthlyFee":1784,"date":"2020-6-01"},
+
+    {"area":"Kungsholmen","broker":"Mäklarhuset", "askPrice":7495000, "endPrice":7600000, "pricePerSquare":92683,"rooms":3,"size":82,"monthlyFee":3722,"date":"2020-5-01"},
+    {"area":"Kungsholmen","broker":"Mäklarhuset", "askPrice":3250000, "endPrice":3400000, "pricePerSquare":74725,"rooms":2,"size":46,"monthlyFee":3285,"date":"2020-5-01"},
+    {"area":"Kungsholmen","broker":"Vision", "askPrice":3395000, "endPrice":3760000, "pricePerSquare":91707,"rooms":2,"size":41,"monthlyFee":2783,"date":"2020-5-01"},
+
+    {"area":"Kungsholmen","broker":"Karlsson & Uddare", "askPrice":9000000, "endPrice":9000000, "pricePerSquare":45181,"rooms":3,"size":199,"monthlyFee":4370,"date":"2020-4-01"},
+    {"area":"Kungsholmen","broker":"Fastighetsbyrån", "askPrice":5800000, "endPrice":5800000, "pricePerSquare":92063,"rooms":3,"size":63,"monthlyFee":2309,"date":"2020-4-01"},
+    {"area":"Kungsholmen","broker":"Mäklarhuset", "askPrice":13500000, "endPrice":15500000, "pricePerSquare":95092,"rooms":5,"size":163,"monthlyFee":4026,"date":"2020-4-01"},
+
+    {"area":"Kungsholmen","broker":"Fastighetsbyrån", "askPrice":3295000, "endPrice":3450000, "pricePerSquare":93243,"rooms":2,"size":37,"monthlyFee":2252,"date":"2020-3-01"},
+    {"area":"Kungsholmen","broker":"Svensk Fastighetsförmedling", "askPrice":2495000, "endPrice":2495000, "pricePerSquare":75606,"rooms":1,"size":33,"monthlyFee":2198,"date":"2020-3-01"},
+    {"area":"Kungsholmen","broker":"Widerlöv", "askPrice":2395000, "endPrice":2700000, "pricePerSquare":103846,"rooms":1,"size":26,"monthlyFee":1543,"date":"2020-3-01"},
+
+    {"area":"Kungsholmen","broker":"Bjurfors", "askPrice":4695000, "endPrice":4850000, "pricePerSquare":74615,"rooms":3,"size":65,"monthlyFee":3245,"date":"2020-2-01"},
+    {"area":"Kungsholmen","broker":"Fastighetsbyrån", "askPrice":2395000, "endPrice":2900000, "pricePerSquare":107407,"rooms":1,"size":27,"monthlyFee":1419,"date":"2020-2-01"},
+    {"area":"Kungsholmen","broker":"Alicia Edelman", "askPrice":3095000, "endPrice":3095000, "pricePerSquare":78354,"rooms":2,"size":39,"monthlyFee":2991,"date":"2020-2-01"},
+
+    {"area":"Kungsholmen","broker":"Notar", "askPrice":3995000, "endPrice":4300000, "pricePerSquare":89583,"rooms":2,"size":48,"monthlyFee":3329,"date":"2020-1-01"},
+    {"area":"Kungsholmen","broker":"Mäklarhuset", "askPrice":5695000, "endPrice":6350000, "pricePerSquare":93382,"rooms":2,"size":68,"monthlyFee":3804,"date":"2020-1-01"},
+    {"area":"Kungsholmen","broker":"Svensk Fastighetsförmedling", "askPrice":2995000, "endPrice":3305000, "pricePerSquare":76860,"rooms":2,"size":43,"monthlyFee":2459,"date":"2020-1-01"}
+]

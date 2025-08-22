@@ -1,0 +1,20 @@
+.mainContainer {
+  width: 100vw !important;
+  height: 100vh !important;
+  display: inline-block;
+  background-color: #f7f8f9 !important;
+  overflow: auto;
+  vertical-align: top;
+}
+
+.content {
+  margin: 100px auto;
+  padding: 16px;
+  max-width: 400px;
+  text-align: center;
+}
+
+.image {
+  max-width: 250px;
+  padding-bottom: 18px;
+}

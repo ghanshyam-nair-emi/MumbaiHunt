@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: #fff;
+  margin: 0;
+  overflow: hidden;
+}
+
+.parentContainer {
+  display: block;
+}
+
+.mobileScreenContainer {
+  display: none;
+}
+
+@media screen and (max-width: 1000px) {
+  .parentContainer {
+    display: none;
+  }
+
+  .mobileScreenContainer {
+    display: block;
+  }
+}
+
+.container {
+  height: 92vh;
+}

@@ -1,0 +1,21 @@
+.sideBar {
+  background-color: white;
+  width: 25vw;
+  display: inline-block;
+  height: 100%;
+  overflow: auto;
+  padding: 8px 0px;
+  height: 100%;
+  position: relative;
+}
+
+.buttonContainer {
+  position: absolute;
+  bottom: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+.button {
+  background-color: #11a384 !important;
+}

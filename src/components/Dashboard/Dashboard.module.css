@@ -1,0 +1,13 @@
+.mainContainer {
+  width: 75vw !important;
+  display: inline-block;
+  background-color: #f7f8f9 !important;
+  overflow: auto;
+  overflow-x: hidden;
+  vertical-align: top;
+  height: 100%;
+}
+
+.gridContainer {
+  padding: 16px;
+}

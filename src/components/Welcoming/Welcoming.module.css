@@ -1,0 +1,19 @@
+.mainContainer {
+  width: 75vw !important;
+  display: inline-block;
+  background-color: #f7f8f9 !important;
+  overflow: auto;
+  vertical-align: top;
+  height: 100%;
+}
+
+.content {
+  margin: 15vh auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+.image {
+  max-width: 400px;
+  padding-bottom: 18px;
+}

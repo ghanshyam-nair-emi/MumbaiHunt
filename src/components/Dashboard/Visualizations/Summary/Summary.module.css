@@ -1,0 +1,23 @@
+.table {
+  border: none !important;
+  background-color: black !important;
+}
+
+.table tr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table tr:nth-of-type(odd) {
+  background-color: #f3f2f8;
+}
+
+.tablehead {
+  background-color: #000 !important;
+}
+
+.cell {
+  padding-left: 0 !important;
+
+  background-color: white !important;
+}
